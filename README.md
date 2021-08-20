@@ -1,4 +1,5 @@
-<h1 align="center">👋 Olá mundo!, Sou o Amarildo Miguel</h1>
+<h1 align="center">👋 Olá mundo!</h1>
+<h2 align="center">Sou o Amarildo Miguel</h2>
 <h3 align="center">Sou desenvolvedor web e estudante de engenharia informática</h3>
 
 - 🔭 Atualmente trabalho com a stack Laravel + Vue
