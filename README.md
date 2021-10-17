@@ -1,10 +1,9 @@
 <h1 align="center">👋 Olá mundo!</h1>
 <h2 align="center">Sou o Amarildo Miguel</h2>
-<h3 align="center">Sou desenvolvedor web e estudante de engenharia informática</h3>
+<h3 align="center">Desenvolvedor web e treinador Pokémon</h3>
 
 - 🔭 Atualmente trabalho com a stack Laravel + Vue
 - 📚 Estudo Flutter por diversão
-- ⚡ Fun fact: Sou um treinador pokemon 😎
 - -------------------------------------------- -
 <p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
 
