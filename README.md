@@ -1,12 +1,36 @@
-<h2 align="center">👋 Olá mundo! Sou o Amarildo Miguel</h2>
-<h3 align="center">Desenvolvedor web e treinador Pokémon</h3>
+### Olá mundo 👋
 
-- 💻 Trabalho com a stack Laravel + Vue + JasperReports
-- 📚 Estudo Flutter por diversão
+Sou desenvolvedor web e sou apaixonado por programação. <p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
+
+
+
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **DEVELOPER** {
+ val name = "Amarildo Miguel" 
+ val primarySkillset = "Laravel Full Stack development"
+ val stack = listOf("Laravel", "JasperReports", "Vuejs", "Vuetify") 
+
+}
+```
 - -------------------------------------------- -
-<p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarildomgl&theme=dracula&hide_langs_below=1" />
+</a>
+
+[twitter]: https://twitter.com/amarildomgl
+[instagram]: https://www.instagram.com/amarildomgl/
+[linkedin]: https://www.linkedin.com/in/amarildo-miguel-834b9a188/
+<br>
 
 <h3 align="left">Acompanhe-me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/amarildomgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarildomgl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amarildo-miguel-834b9a188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarildo-miguel-834b9a188" height="30" width="40" /></a>
