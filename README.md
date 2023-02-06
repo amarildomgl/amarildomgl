@@ -13,7 +13,7 @@ Sou desenvolvedor web e sou apaixonado por programação. <p align="left"> <a hr
 object **DEVELOPER** {
  val name = "Amarildo Miguel" 
  val primarySkillset = "Laravel Full Stack development"
- val stack = listOf("Laravel", "JasperReports", "Vuejs", "Vuetify") 
+ val stack = listOf("Laravel", "JasperReports", "Vuejs", "Vuetify", "JavaScript") 
 
 }
 ```
