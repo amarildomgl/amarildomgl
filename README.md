@@ -1,13 +1,13 @@
 ### Olá mundo 👋
 
-Amarildo dos Santos Conceição Miguel (Malanje, 24 de fevereiro de 1999), sou um programador com mais de 5 anos de experiência profissional. Eu sempre fui fascinado por videogames e tecnologia e comecei minha carreira como um autodidata, aprendendo a programar por conta própria com intuito de criar meus próprios jogos.  
+Amarildo dos Santos Conceição Miguel (Malanje, 24 de fevereiro de 1999), sou um programador com mais de 5 anos de experiência profissional. Sempre fui fascinado por videogames e tecnologia e comecei minha carreira como um autodidata, aprendendo a programar por conta própria com intuito de criar meus próprios jogos.  
 
-Meu primeiro emprego foi em uma pequena startup de desenvolvimento de softwares, onde, juntamente com alguns colegas da universidade, trabalhei em vários projetos, desde aplicativos web até sistemas de gestão para pequenas empresas. Depois disso, eu fui contratado por uma empresa de tecnologia, onde pude trabalhar em projetos mais complexos e em equipes maiores. 
+Meu primeiro emprego foi numa pequena startup de desenvolvimento de softwares, onde, juntamente com alguns colegas da universidade, trabalhei em vários projetos, desde pequenos websites até sistemas de gestão para pequenas empresas. Depois disso, eu fui contratado por uma empresa de tecnologia, onde pude trabalhar em projetos mais complexos e com equipes maiores. 
 Trabalhei ainda como professor de lógica de programação e desenvolvimento web em alguns centros de formação e projetos voltados à inserção ao mundo do desenvolvimento web. 
 
 Ao longo dos anos, fui capaz de aprimorar minhas habilidades em várias linguagens de programação, como Java, PHP, Javascript e em frameworks modernos como Laravel, Spring, Vue e Angular 2. Também tive a oportunidade de liderar equipes e projetos, o que me permitiu desenvolver minhas habilidades de liderança e comunicação. 
 
-Atualmente, sou programador sênior em uma empresa de tecnologia, onde trabalho em projetos inovadores e desafiadores. Estou focado em continuar crescendo e evoluindo como profissional, enquanto contribuo para o desenvolvimento de soluções tecnológicas que ajudam a transformar o mundo.
+Atualmente, sou programador sénior em uma empresa de tecnologia, onde trabalho em projetos inovadores e desafiadores. Estou focado em continuar crescendo e evoluindo como profissional, enquanto contribuo para o desenvolvimento de soluções tecnológicas que ajudam a transformar o mundo.
 <p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
 
 
