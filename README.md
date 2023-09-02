@@ -1,6 +1,6 @@
 ### Olá mundo 👋
 
-Sou o Amarildo dos Santos Conceição Miguel (Malanje, 24 de fevereiro de 1999), sou um programador com mais de 5 anos de experiência profissional e sou fui fascinado por videogames e tecnologia. 
+Amarildo dos Santos Conceição Miguel, sou um programador com mais de 5 anos de experiência profissional e sou fascinado por videogames e tecnologia. 
 
 Ao longo dos anos, fui capaz de aprimorar minhas habilidades em várias linguagens de programação, como Java, PHP, Javascript e em frameworks modernos como Laravel, Spring, Vue e Angular 2. Também tive a oportunidade de liderar equipes e projetos, o que me permitiu desenvolver habilidades de liderança e comunicação. 
 
