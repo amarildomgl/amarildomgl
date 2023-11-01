@@ -17,8 +17,8 @@ Atualmente sou programador sénior em uma empresa de tecnologia, onde trabalho e
 ```kotlin
 object **DEVELOPER** {
  val name = "Amarildo Miguel" 
- val primarySkillset = "Laravel Full Stack development"
- val stack = listOf("Laravel", "JasperReports", "Vuejs", "Vuetify", "JavaScript") 
+ val primarySkillset = "Backend development"
+ val stack = listOf("JAVA", "PHP", "JAVASCRIPT", "SQL", "GIT") 
 
 }
 ```
