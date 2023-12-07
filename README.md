@@ -4,7 +4,7 @@ Amarildo dos Santos Conceição Miguel, sou um programador com mais de 5 anos de
 
 Ao longo dos anos, fui capaz de aprimorar minhas habilidades em várias linguagens de programação, como Java, PHP, Javascript e em frameworks modernos como Laravel, Spring, Vue e Angular 2. Também tive a oportunidade de liderar equipes e projetos, o que me permitiu desenvolver habilidades de liderança e comunicação. 
 
-Atualmente trabalho como técnico de gestão de projectos e desenvolvimento na maior sociedade de microcrédito de Angola, onde trabalho em projetos inovadores e desafiadores. Estou focado em continuar crescendo e evoluindo como profissional, enquanto contribuo para o desenvolvimento de soluções tecnológicas que ajudam a transformar o mundo num lugar melhor.
+Atualmente trabalho como Técnico de Gestão de Projectos e Desenvolvimento na maior sociedade de microcrédito de Angola, onde trabalho em projetos inovadores e desafiadores. Estou focado em continuar crescendo e evoluindo como profissional, enquanto contribuo para o desenvolvimento de soluções tecnológicas que ajudam a transformar o mundo num lugar melhor.
 
 <p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
 
