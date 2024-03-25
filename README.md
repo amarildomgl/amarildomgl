@@ -1,8 +1,6 @@
 ### Olá mundo 👋
 
-Sou apaixonado por criar soluções inovadoras. Experiente em desenvolvimento, arquitetura de sistemas e liderança de projetos. 
-
-Busco contribuir com equipas dinâmicas e inovadoras, aplicando meu conhecimento para impulsionar o sucesso dos projetos.
+Sou um profissional apaixonado por criar soluções inovadoras, com experiência sólida em desenvolvimento, arquitetura de sistemas e liderança de projetos. Ao longo da minha carreira, busco contribuir com equipes dinâmicas e inovadoras, com foco em resolução de problemas. Estou sempre em busca de desafios que me permitam desenvolver soluções criativas e eficientes.
 
 <p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
 
