@@ -1,6 +1,6 @@
-### Olá mundo 👋
+### hello world 👋
 
-Sou um profissional apaixonado por criar soluções inovadoras, com experiência sólida em desenvolvimento, arquitetura de sistemas e liderança de projetos. Ao longo da minha carreira, busco contribuir com equipes dinâmicas e inovadoras, com foco em resolução de problemas. Estou sempre em busca de desafios que me permitam desenvolver soluções criativas e eficientes.
+I am a professional passionate about creating innovative solutions, with solid experience in development, systems architecture and project leadership. Throughout my career, I seek to contribute to dynamic and innovative teams, focused on problem solving. I am always looking for challenges that allow me to develop creative and efficient solutions.
 
 <p align="left"> <a href="https://twitter.com/amarildomgl" target="blank"><img src="https://img.shields.io/twitter/follow/amarildomgl?logo=twitter&style=for-the-badge" alt="amarildomgl" /></a> </p>
 
