@@ -33,7 +33,7 @@
 <a href="https://twitter.com/amarildomgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarildomgl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amarildomgl" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="amarildomgl" height="30" width="40" /></a>
 <a href="https://instagram.com/amarildo.mgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarildo.mgl" height="30" width="40" /></a>
-<a href="https://medium.com/@amarildomgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amarildomgl" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
